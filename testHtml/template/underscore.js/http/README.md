@@ -1,4 +1,4 @@
-[http://nodejs.org/](node.js) is required
+[node.js](http://nodejs.org/) is required
 
 ```shell
 $ npm install
