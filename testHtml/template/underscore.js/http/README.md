@@ -1,3 +1,5 @@
+[http://nodejs.org/](node.js) is required
+
 ```shell
 $ npm install
 $ node app
